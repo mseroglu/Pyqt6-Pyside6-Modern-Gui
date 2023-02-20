@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="backbutton">
+    <file>backbutton.ico</file>
+  </qresource>
+</RCC>
