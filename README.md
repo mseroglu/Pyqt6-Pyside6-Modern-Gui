@@ -17,3 +17,4 @@ Linkedin = https://www.linkedin.com/in/orhan-metin/
 Repo da ki klasör adı pyside6_pyqt6_slide_menu.
 
 ![slide menu gif](https://github.com/orhanmetinnn/Pyqt6-Pyside6-Modern-Gui/blob/main/image/slide_menu_gif.gif)
+
