@@ -6,6 +6,6 @@ yardımcı olacak bu alanda ki içerikler.
 
 **Pyside6 veya Pyqt6 kütüphanelerini kullanarak kodları çalıştırabilirsiniz.** 
 
-**Danışmanlık Hizmeti Ve Yardım İçin;**
+**Danışmanlık hizmeti veya yardım İçin;**
 
 Linkedin = https://www.linkedin.com/in/orhan-metin/
