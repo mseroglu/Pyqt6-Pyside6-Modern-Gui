@@ -14,7 +14,10 @@ Linkedin = https://www.linkedin.com/in/orhan-metin/
 
 **1- Pyside6 ile slide menü**
 
+
 Repo da ki klasör adı pyside6_pyqt6_slide_menu.
+Klasör içerisinde ki qrc dosyaları gömülü resim dosyalarıdır. Ui dosyası ise Qt desinger ile açıp tasarımı değiştirebileceğiniz desinger uzantısıdır.
+
 
 ![slide menu gif](https://github.com/orhanmetinnn/Pyqt6-Pyside6-Modern-Gui/blob/main/image/slide_menu_gif.gif)
 
