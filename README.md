@@ -45,3 +45,8 @@ Ekstra bir kütüphaneye ihtiyaç olmadan bu özelliği kullanarak siz de grafik
 ![Pie Chart](https://github.com/orhanmetinnn/Pyqt6-Pyside6-Modern-Gui/blob/main/image/qchart.PNG)
 
 
+
+
+**4-QThread kullanarak donma sorununu ortadan kaldırmak**
+Repo da ki klasör adı QThread.
+Pyqt6-Pyside6 da donma sorunu var ise bu yöntemi kullanarak donma sorunundan kurtulabilirsiniz.
