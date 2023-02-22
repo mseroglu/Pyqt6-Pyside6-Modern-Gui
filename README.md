@@ -33,3 +33,15 @@ Klasör içerisinde ki kodları incelediğiniz zaman bir excel karşınıza çı
 
 
 ![tablewidget_combobox_lineedit_checkbox](https://github.com/orhanmetinnn/Pyqt6-Pyside6-Modern-Gui/blob/main/image/table.PNG)
+
+
+**3- QChart kullanarak PieChart oluşturma**
+
+Repo da ki klasör adı Pie Chart.
+Pyside6 içerisinde yer alan QChart özelliğini kullanarak QPieChart nasıl yapabileceğinizi size türkçe olarak açıkladım.
+Ekstra bir kütüphaneye ihtiyaç olmadan bu özelliği kullanarak siz de grafikler oluşturabilirsiniz.
+
+
+![Pie Chart](https://github.com/orhanmetinnn/Pyqt6-Pyside6-Modern-Gui/blob/main/image/qchart.PNG)
+
+
