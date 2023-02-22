@@ -21,3 +21,15 @@ Klasör içerisinde ki qrc dosyaları gömülü resim dosyalarıdır. Ui dosyas�
 
 ![slide menu gif](https://github.com/orhanmetinnn/Pyqt6-Pyside6-Modern-Gui/blob/main/image/slide_menu_gif.gif)
 
+
+
+
+**2- QTablewidget içerisine combobox , lineedit , checkbox yerleştirme**
+
+
+Repo da ki klasör adı tablewidget_combobox_lineedit_checkbox.
+Klasör içerisinde ki kodları incelediğiniz zaman bir excel karşınıza çıkmaktadır. Bu excel den verileri pandas ile çekip Qtablewidget içerisine aktarmayı sağladık.
+İstediğimiz column içerisine de widget özelliklerini ekledik.
+
+
+![tablewidget_combobox_lineedit_checkbox](https://github.com/orhanmetinnn/Pyqt6-Pyside6-Modern-Gui/blob/main/image/table.PNG)
